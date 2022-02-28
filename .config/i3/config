@@ -222,3 +222,5 @@ bindsym $mod+i exec firefox-esr
 bindsym $mod+n exec nemo
 bindsym $mod+m exec "thunar /home/linn8/Music"
 bindsym Print exec xfce4-screenshooter
+bindsym F12 exec xfce4-terminal --drop-down
+bindsym F9 workspace number $ws10
